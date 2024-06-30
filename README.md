@@ -34,3 +34,9 @@ Công ty Cổ phần Sản xuất và Thương mại ABC mong muốn phát tri�
 ### Chức năng của Trưởng phòng Nhân sự
 - Đăng nhập
 - Đăng xuất
+- Xem thông báo
+- Gửi yêu cầu (nghỉ phép,..)
+- Xem phòng họp
+- Đăng kí phòng họp
+- Xét duyệt yêu cầu
+- Quản lý nhân viên
