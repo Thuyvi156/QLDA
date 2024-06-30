@@ -1,4 +1,4 @@
-# Quản lý dự án Công nghệ thông tin - Nhóm 6 - IS208.O21
+# Quản lý dự án Công nghệ thông tin - IS208.O21
 ## Giới thiệu đồ án
 Công ty Cổ phần Sản xuất và Thương mại ABC mong muốn phát triển một trang web nội bộ để nâng cao khả năng giao tiếp của nhân viên, cung cấp quyền truy cập vào các tài liệu cần thiết và số hóa các quy trình hành chính. Các tính năng chính bao gồm đăng nhập an toàn, tin tức nội bộ, thông báo về sinh nhật và giải thưởng, lịch chung và lịch cá nhân cũng như đặt phòng họp. Trang web sẽ lưu trữ một thư viện tài liệu với các chính sách và biểu mẫu, hiển thị cơ cấu tổ chức và quản lý các yêu cầu liên phòng ban như đơn xin nghỉ phép. Giải pháp phần mềm XYZ sẽ thiết kế và triển khai hệ thống này, đảm bảo nó đáp ứng nhu cầu của ABC và cải thiện hiệu quả tổng thể.
 ## Mục tiêu đề tài
